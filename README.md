@@ -1,11 +1,12 @@
 # hasantanvir357
+
 <div align="center">
-  <img src="banner.jpg" alt="Tanvir Hasan Banner" width="100%" />
+  <img src="Banner.jpg" alt="Tanvir Hasan Banner" width="100%" />
 
   <br/><br/>
 
   <h1>Hi there, I'm Tanvir Hasan 👋</h1>
-  <p><strong>Aspiring Web Developer | Frontend & JavaScript Enthusiast</strong></p>
+  <p><strong>Frontend Developer | React & Next.js Enthusiast</strong></p>
 
   <p>
     <a href="https://www.linkedin.com/in/tanvir-hasan-79019641a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,9 +18,9 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m an aspiring web developer building modern web applications.
-- 🌱 Currently learning **React.js** and strengthening **TypeScript & JavaScript (ES6+)**.
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, and Web Basics**.
+- 🔭 Currently building modern web applications with **React.js** and **Next.js**.
+- 🌱 Advanced proficiency in **React** and actively learning **Next.js** while working on real-world projects.
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript (ES6+), React, and Web Architecture**.
 - 📫 Reach me at: **hasantanvir357@gmail.com**
 
 ---
@@ -32,18 +33,20 @@
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hasantanvir357&show_icons=true&theme=dark&hide_border=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasantanvir357&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=hasantanvir357&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hasantanvir357&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasantanvir357&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
+
 ---
 
 ### ✍️ Random Dev Quote
